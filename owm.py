@@ -4,7 +4,7 @@ Simple Weather Forecast
 Robocode IT Academy Andijan
 Student Salaydinov Nurullo
 Used openweathermap
-You can create your own api key with subscribe
+You can create your own api key with subscribe to openweathermap
 
 """
 import requests
