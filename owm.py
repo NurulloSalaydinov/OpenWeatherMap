@@ -5,6 +5,7 @@ Robocode IT Academy Andijan
 Student Salaydinov Nurullo
 Used openweathermap
 You can create your own api key with subscribe to openweathermap
+You Can Add 
 
 """
 import requests
